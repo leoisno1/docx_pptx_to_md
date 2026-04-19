@@ -71,7 +71,7 @@ C:\Users\Output\MyProject_MD\
 ## Conversion Details
 
 ### DOCX Conversion
-
+ 
 - **Headings**: Converts Word heading styles (Heading 1-6) to Markdown headers (# to ######)
 - **Paragraphs**: Preserves plain text paragraphs
 - **Lists**: Converts bulleted and numbered lists to Markdown list syntax

@@ -80,6 +80,11 @@ C:\Users\Output\MyProject_MD\
 - **JSON Blocks**: Handles JSON content within documents
 - **Text Formatting**: Preserves bold, italic, and underline styling
 
+### An Example Markdown from DOCX 
+
+![image](image.png)
+
+
 ### PPTX Conversion
 
 - **Slides**: Processes PowerPoint slides as separate content blocks

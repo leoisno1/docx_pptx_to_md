@@ -80,6 +80,9 @@ C:\Users\Output\MyProject_MD\
 - **JSON Blocks**: Handles JSON content within documents
 - **Text Formatting**: Preserves bold, italic, and underline styling
 
+### The GUI
+![image](tool.png)
+
 ### An Example Markdown from DOCX 
 
 ![image](image.png)
